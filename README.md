@@ -15,7 +15,7 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://jessicawilkins.dev/static/media/jw-profile.242e079bf384501000b3.webp" />
+<img align="right" alt="GIF" src="https://pbs.twimg.com/profile_images/1629659312489394176/l5rQYz9s_400x400.jpg" />
 
 Hi, I'm Jessica Wilkins 👋 <br />
 I enjoy working with web technologies, technical writing and contributing to open source. 
