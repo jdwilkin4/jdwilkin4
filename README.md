@@ -15,12 +15,10 @@
 
 <br />
 
-Hi, I'm Jessica Wilkins 👋 <br />
-I enjoy working with web technologies, technical writing and contributing to open source. 
-
-
 <img align="right" alt="GIF" src="https://jessicawilkins.dev/static/media/jw-profile.242e079bf384501000b3.webp" />
 
+Hi, I'm Jessica Wilkins 👋 <br />
+I enjoy working with web technologies, technical writing and contributing to open source. 
 
 **Personal information:**
 
@@ -38,5 +36,8 @@ I enjoy working with web technologies, technical writing and contributing to ope
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
+
+![Jessica's github stats](https://github-readme-stats.vercel.app/api?username=jdwilkin4&show_icons=true&hide_border=true)
+
 
 
