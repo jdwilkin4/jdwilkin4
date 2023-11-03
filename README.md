@@ -25,7 +25,8 @@ I enjoy working with web technologies, technical writing and contributing to ope
 - 🔭 I currently work fulltime as a developer at freeCodeCamp.
 - 🌱 I enjoy working with React, TypeScript, GraphQL, Node and Express.
 - 👯 I am apart of the Virtual Coffee and freeCodeCamp communities.
-- ⚡ Check out my [Blogs](https://www.freecodecamp.org/news/author/jessica-wilkins/)
+- ⚡  Read my [freeCodeCamp articles](https://www.freecodecamp.org/news/author/jessica-wilkins/)
+- 📝 Check out my [blog](https://from-mozart-to-javascript.dev/) 
 
 
 **Languages and Tools:**
