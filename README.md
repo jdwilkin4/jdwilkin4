@@ -26,7 +26,13 @@ I enjoy working with web technologies, technical writing and contributing to ope
 - 🌱 I enjoy working with React, TypeScript, GraphQL, Node and Express.
 - 👯 I am apart of the Virtual Coffee and freeCodeCamp communities.
 - ⚡  Read my [freeCodeCamp articles](https://www.freecodecamp.org/news/author/jessica-wilkins/)
-- 📝 Check out my [blog](https://from-mozart-to-javascript.dev/) 
+- 📝 Check out my [blog](https://from-mozart-to-javascript.dev/)
+
+**Astro Contribution Profile**
+
+I love contributing to Astro ♥️<br/>
+
+[![@jdwilkin4 Astro contributions](https://astro.badg.es/v2/contributor/jdwilkin4.svg)](https://astro.badg.es/contributor/jdwilkin4/)
 
 
 **Languages and Tools:**
